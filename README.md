@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1> Hey 👋, I'm Nuno!</h1>
+</h1>
 
-<!--
-**n-pontes/n-pontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little about me...
+I'm a *Tech Enthusiast* passionate about learning and working with new technologies.<br/>
 
-Here are some ideas to get you started:
+### A few quick facts
+- 🔭 &nbsp; I’m currently learning web development.
+- 🌱 &nbsp; I’m currently learning Javascript, HTML and CSS.
+- 💬 &nbsp; Ask me about anything, I am happy to help
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects and dev stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+</details>
+
+<details>
+  <summary><b>👩‍💻 &nbsp; Open Source Projects</b></summary>
+</details>
