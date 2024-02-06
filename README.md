@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuno</h1>
-<h4 align="center">Participating in a comprehensive bootcamp focused on mastering JavaScript, HTML, CSS, React, and other relevant technologies in web development.</h3>
+<h4 align="center">Participating in a comprehensive bootcamp focused on mastering JavaScript, HTML, CSS and other relevant technologies in web development.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **nuno.np@gmx.de**
