@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Nuno</h1>
 
 <h4 align="center">
-  Aspiring web developer navigating the world of code through a dynamic bootcamp journey. 
-  I'm sharpening my skills in JavaScript, HTML, CSS, and exploring the technologies that power the modern web. 
-  Beyond coding, I embrace challenges—whether it's optimizing a fitness routine or strategizing in RPG and board game adventures.
+ Aspiring full-stack web developer, honing skills in JavaScript, HTML, CSS, and exploring modern web technologies.
 </h4>
 
 ---
