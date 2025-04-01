@@ -1,5 +1,5 @@
 ## Who am I?
-I am Nuno, an aspiring Full-Stack Web Developer.
+I am Nuno, an aspiring Full-Stack Web Developer.<br />
 I like writing efficient code and designing seamless layouts.
 
 ## Technologies I use:
